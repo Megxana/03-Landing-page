@@ -1,0 +1,51 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+}
+
+.banner p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px black;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+    }
+
+.footer{
+    text-align: center;
+    padding: 60px;
+    background-color: black;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  .card {
+    width: 700x;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgb(230,230,230);
+    text-align: center;
+    padding: 20px;
+    border: 1px solid rgb(230,230,230);
+  }
+  .card img {
+      height: 100px;
+  }
+  .card p {
+    color: grey;
+    opacity: 0.5;
+  }
+
+  .container1 {
+    width:1200px;
+    margin: auto;
+  }
+
+   
